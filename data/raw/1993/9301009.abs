@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301009
+From: yzhuang@math.upenn.edu
+Date: Mon, 4 Jan 93 23:03:30 -0500   (15kb)
+Date (revised): Thu, 21 Jan 93 16:23:13 -0500
+Date (revised): Tue, 26 Jan 93 14:34:40 -0500
+
+Title: Vertex operator algebras and operads
+Author: Yi-Zhi Huang and James Lepowsky
+Comments: 16 pages. Only the definitions of "partial operad" and of "rescaling
+  group" have been improved
+Subj-class: High Energy Physics - Theory; Quantum Algebra
+\\
+  Vertex operator algebras are mathematically rigorous objects corresponding to
+chiral algebras in conformal field theory. Operads are mathematical devices to
+describe operations, that is, $n$-ary operations for all $n$ greater than or
+equal to $0$, not just binary products. In this paper, a reformulation of the
+notion of vertex operator algebra in terms of operads is presented. This
+reformulation shows that the rich geometric structure revealed in the study of
+conformal field theory and the rich algebraic structure of the theory of vertex
+operator algebras share a precise common foundation in basic operations
+associated with a certain kind of (two-dimensional) ``complex'' geometric
+object, in the sense in which classical algebraic structures (groups, algebras,
+Lie algebras and the like) are always implicitly based on (one-dimensional)
+``real'' geometric objects. In effect, the standard analogy between
+point-particle theory and string theory is being shown to manifest itself at a
+more fundamental mathematical level.
+\\

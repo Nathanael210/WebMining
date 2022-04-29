@@ -1,0 +1,26 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301015
+From: A A Tseytlin <A.A.Tseytlin@damtp.cambridge.ac.uk>
+Date: Wed, 6 Jan 93 10:36 GMT   (20kb)
+Date (revised): Thu, 25 Feb 93 22:07 GMT
+
+Title: Effective action of gauged WZW model and exact string solutions
+Authors: A.A. Tseytlin
+Comments: 26 pages, harvmac, Imperial/TP/92-93/10 (misprints corrected and some
+  explanations added)
+Journal-ref: Nucl.Phys. B399 (1993) 601-622
+\\
+  We suggest how to derive the exact (all order in $\a'$) expressions for the
+background fields for string solutions corresponding to gauged WZW models
+directly at the $2d$ field theory level. One is first to replace the classical
+gauged WZW action by the quantum effective one and then to integrate out the
+gauge field. We find the explicit expression for the gauge invariant non-local
+effective action of the gauged WZW model. The two terms (corresponding to the
+group and subgroup) which appear with the same coefficients in the classical
+action get different $k$-dependent coefficients in the effective one. The
+procedure of integrating out the gauge field is considered in detail for the
+$SL(2,R)/U(1)$ model and the exact expressions for the $D=2$ metric and the
+dilaton (originally found in the conformal field theory approach) are
+reproduced.
+\\

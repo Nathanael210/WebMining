@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301004
+From: Jean Zinn-Justin <zinn@amoco.saclay.cea.fr>
+Date: 04 Jan 93 17:32:53+0100   (10kb)
+
+Title: Large Order Behaviour of 2D Gravity Coupled to $d<1$ Matter
+Authors: B. Eynard and J. Zinn-Justin
+Report-no: SPhT/92-163 SPhT-Saclay
+Journal-ref: Phys.Lett. B302 (1993) 396-402
+\\
+  We discuss the large order behaviour and Borel summability of the topological
+expansion of models of 2D gravity coupled to general $(p,q)$ conformal matter.
+In a previous work it was proven that at large order $k$ the string
+susceptibility had a generic $a^k\Gamma(2k-\ud)$ behaviour. Moreover the
+constant $a$, relevant for the problem of Borel summability, was determined for
+all one-matrix models. We here obtain a set of equations for this constant in
+the general $(p,q)$ model. String equations can be derived from the
+construction of two differential operators $P,Q$ satisfying canonical
+commutation relations $[P,Q]=1$. We show that the equation for $a$ is
+determined by the form of the operators $P,Q$ in the spherical or semiclassical
+limits. The results for the general one-matrix models are then easily
+recovered. Moreover, since for the $(p,q)$ string models such $p=(2m+1)q\pm1$
+the semiclassical forms of $P,Q$ are explicitly known, the large order
+behaviour is completely determined. This class contains all unitary $(q+1,q)$
+models for which the answer is specially simple. As expected we find that the
+topological expansion for unitary models is not Borel summable.
+\preprint{SPhT/92-163}, Plain-TeX, macro harvmac
+\\

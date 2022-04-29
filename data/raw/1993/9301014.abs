@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301014
+From: "Don Spector" <das@hepth.cornell.edu>
+Date: Tue, 5 Jan 93 15:32:27 EST   (13kb)
+Date (revised): Mon, 19 Jun 1995 14:30:49 -0400
+
+Title: Solitons and Instantons with(out) Supersymmetry
+Authors: Zvonimir Hlousek and Donald Spector
+Comments: 15 pages, harvmac. The major change is the addition of an important
+  discussion on constructing the supersymmetric generalizations of
+  non-supersymmetric theories. The paper has also been re-organized. This
+  revision was inadvertently not submitted to the archive at the time of its
+  completion last year
+Report-no: HWS-92/07, CSULB-HEP-45
+Journal-ref: Nucl. Phys. B442 (1995) 413
+\\
+  We give model-independent arguments, valid in nearly any number of spacetime
+dimensions, that topological solitons and instantons satisfy Bogomol'nyi-type
+bounds and, when these bounds are saturated, satisfy self-duality equations. In
+the supersymmetric case, we also show that, in spacetime dimensions greater
+than two, theories with topological charges necessarily exhibit extended
+supersymmetry, in which the topological charge appears as the central charge.
+The significance of our arguments lies in their generality. In the
+supersymmetric case, we obtain insight into the contrast observed between
+topological charges in 1+1 and higher dimensional models. The centerpiece of
+our method is to require that the supersymmetric extension of a generic
+(non-supersymmetric) field theory be self-consistent. Our discussion of
+supersymmetric extensions is quite detailed, and introduces the notion of the
+"associated superfield" to construct such extensions.
+\\

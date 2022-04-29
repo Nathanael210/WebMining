@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------
+\\
+Paper: hep-th/9301021
+From: "Adel Bilal" <bilal@puhep1.Princeton.EDU>
+Date: Thu, 7 Jan 93 16:36:30 EST   (23kb)
+Date (revised): Fri, 7 May 93 14:46:11 EDT
+
+Title: Positive Energy Theorem and Supersymmetry in Exactly Solvable
+  Quantum-Corrected 2D Dilaton-Gravity
+Authors: Adel Bilal
+Comments: 30 pages, significantly revised and extended: in particular, the
+  uniqueness of the positive energy functional is proven and the conditions are
+  made more precise. The functional is shown to lead to satisfactory ADM and
+  Bondi masses whose properties are studied in detail. The Bondi mass is
+  evaluated explicitly for the RST shockwave scenario
+Report-no: PUPT-1373
+Journal-ref: Phys.Rev. D48 (1993) 1665-1678
+\\
+  Extending the work of Park and Strominger, we prove a positive energy theorem
+for the exactly solvable quantum-corrected 2D dilaton gravity theories. The
+positive energy functional we construct is shown to be unique (within a
+reasonably broad class of such functionals). For field configurations
+asymptotic to the LDV we show that this energy functional (if defined on a
+space-like surface) yields the usual (classical) definition of the ADM mass
+{\it plus a certain ``quantum"-correction. If defined on a null surface the
+energy functional yields the Bondi mass. The latter is evaluated careflly and
+applied to the RST shock-wave scenario where it is shown to behave as
+physically expected. Motivated by the existence of a positivity theorem we
+construct manifestly supersymmetric (semiclassical) extensions of these
+quantum-corrected dilaton-gravity theories.
+\\
