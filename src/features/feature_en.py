@@ -94,3 +94,10 @@ df["recency(avg)"] = df["paper_id"].apply(lambda x: rec_avg(x))
 
 """Maximum time difference between cited papers"""
 df["max_time_diff_cit"] = df["paper_id"].apply(lambda x: dif_max(x))
+
+# remove rows of paper_ids that are nor included in the graph
+df["is_contained"] = df["paper_id"].apply(lambda x: x in G.nodes)
+df = df[df["is_contained"]==True]
+df = df.drop(columns=["is_contained"])
+
+df.to_csv('WebMining/data/processed/metadata_and_graphfeat_part1.csv')
