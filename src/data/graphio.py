@@ -31,8 +31,14 @@ def read_graph(file : str, file_times : str = None ) -> nx.DiGraph:
                     G.nodes[node]["time"] = time  # create attribute "time" for each node
                 else:
                     nr += 1
-            # print(f"{nr} dates not used.")
-
+            #print(f"{nr} dates not used.")
+        print("delete future citations...")
+        edges_to_delete = []
+        for u, v in G.edges():
+            if G.nodes[u]["time"] < G.nodes[v]["time"]:
+                edges_to_delete.append([u, v])
+        for u, v in edges_to_delete:
+            G.remove_edge(u, v)
     print("Graph loaded.")
     return G
 
@@ -41,7 +47,7 @@ if __name__ == "__main__":  # is True iff you start the execution with this file
     G = read_graph("hep-th-citations_unzipped.txt", "hep-th-slacdates_unzipped.txt")
     # test some properties:
     assert G.number_of_nodes() == 27_770, "Number of Nodes does not fit."
-    assert G.number_of_edges() == 352_807, "Number of Edges does not fit."
+    assert G.number_of_edges() == 352_807 - 1044, "Number of Edges does not fit."
     if True:
         for u in G.nodes:  # check that all nodes have a time
             assert len(G.nodes[u]) == 1, f"Number of attributes does not fit for node {u}"
